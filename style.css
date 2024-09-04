@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 
+    Montserrat;
+}
+
+body{
+    background-color: #FEB60B;
+}
+.card{
+width: 475px;
+background-color: white;
+margin-top: 175px;
+margin-left: 400px;
+border-radius: 20px;
+height: 550px;
+}
+.title{
+text-align: center;
+padding-top:44px ;
+font-weight: 700;
+font-size: 32px;
+line-height: 39.01px;
+padding-bottom: 43px;
+}
+
+.text{
+    font-weight: 600;
+    font-size: 22px;
+    padding-left:194px ;
+    line-height: 26.82px;
+    padding-bottom: 12px;
+}
+
+.card p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    color:#6C6C6C;
+    text-align: center;
+    padding-bottom: 50px;
+}
+label{
+    margin-left: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #6C6C6C;
+}
+
+input{
+    width: 415px;
+    height: 44px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    border: 1px solid #E5E5E5;
+}
+button{
+    width: 415px;
+    height: 44px;
+    border-radius: 4px;
+    margin-left: 30px;
+    border: 0;
+    background-color: #FEB60B;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+}
+
+.link{
+    color: #FEB60B;
+    text-align: center;
+    padding-top: 27px;
+}
